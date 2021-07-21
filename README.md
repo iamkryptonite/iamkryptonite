@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 ## Github Stats
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamkryptonite&count_private=true&show_icons=true&theme=dark" width="400"></img></div>
+  <img src="https://github-readme-stats.vercel.app/api?username=iamkryptonite&count_private=true&show_icons=true&theme=dark" width="500"></img></div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkryptonite&show_icons=true&theme=dark&layout=compact" width="350"></img></div> 
 </p>
 

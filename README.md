@@ -11,10 +11,15 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Skills
 <div>
-<a href="https://www.cplusplus.com/"><img src="https://user-images.githubusercontent.com/31564734/121515036-53d6c580-ca0a-11eb-8fdc-4d8c49a42099.png" width="100px"></img></a>
-<a href="https://git-scm.com/"><img src="https://user-images.githubusercontent.com/31564734/121521260-79b39880-ca11-11eb-91cc-41c5ca71bdc9.png" width="100px"></img></a>
-<a href="https://nodejs.org/en/"><img src="https://user-images.githubusercontent.com/31564734/121521712-03636600-ca12-11eb-8e7f-04995886bcbd.png" width="100px"></img></a>
-<a href="https://developer.android.com/studio"><img src="https://user-images.githubusercontent.com/31564734/121521380-9ea80b80-ca11-11eb-8d00-08276842750d.png" width="120px"></img></a>
+<img src="https://user-images.githubusercontent.com/43510609/126553499-8bfd162e-01bb-40d7-8ac3-2dfea5832628.png" width="90px"/>
+<img src="https://user-images.githubusercontent.com/43510609/126553277-d7879879-129d-4432-9372-9927d29abb01.png" width="100px"/>
+<img src="https://user-images.githubusercontent.com/43510609/126552393-b1ff30e8-27a3-4daa-aa64-f15ee74e21b8.png" width="100px"/>
+<img src="https://user-images.githubusercontent.com/43510609/126552764-9827fe23-ea61-4688-9f14-eac040284447.png" width="100px"/>
+<img src="https://user-images.githubusercontent.com/43510609/126552939-9850e95d-8388-4d24-bf0f-14c5e00d4dd9.png" width="100px"/>
+<img width="100" alt="MongoDB_LogoStacked_FullColorBlack_RGB" src="https://user-images.githubusercontent.com/43510609/126553954-666cb433-4e74-4818-a1bc-ff7eed3011a1.png">
+
+
+
 </div>
 
 

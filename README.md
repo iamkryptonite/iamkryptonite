@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Satyaki Das
-I am a final year undergrad currently pursuing my Bachelors degree in Electronics and Telecommunication Engineering from Jadavpur University. Find me at [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/satyakidas28/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='20'>](https://leetcode.com/kryptonite28/)  
+I am a final year undergrad currently pursuing my Bachelors degree in Electronics and Telecommunication Engineering from Jadavpur University. 
  
  👀 I’m interested in Competitive coding and Full-Stack Development
  
